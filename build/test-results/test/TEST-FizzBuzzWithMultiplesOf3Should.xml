@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzWithMultiplesOf3Should" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-07-16T21:20:50" hostname="MatebookX" time="0.003">
+  <properties/>
+  <testcase name="printFizz[0]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <testcase name="printFizz[1]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <testcase name="printFizz[2]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <testcase name="printFizz[3]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <testcase name="printFizz[4]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <testcase name="printFizz[5]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <testcase name="printFizz[6]" classname="FizzBuzzWithMultiplesOf3Should" time="0.001"/>
+  <testcase name="printFizz[7]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <testcase name="printFizz[8]" classname="FizzBuzzWithMultiplesOf3Should" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
